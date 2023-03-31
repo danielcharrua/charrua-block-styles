@@ -1,0 +1,10 @@
+/**
+ * Please note that these styles will be loaded before editor styles.
+ * If a theme's editor style specifies the same classname, these may be overwritten. 
+ */
+
+ .is-style-highlight-paragraph {
+    background-color: #f8ecd3;
+    padding: 15px 15px;
+    border-radius: 5px;
+}
