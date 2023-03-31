@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Charrúa Block Styles
- * Description: This plugin adds a highlight block style to paragraphs netive blocks.
+ * Description: This plugin adds some custom block styles. For the moment adds only a highlight style on paragraphs blocks.
  * Version:     1.0.0
  * Author:      Charrúa
  * Author URI:  https://charrua.es
